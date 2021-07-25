@@ -37,7 +37,7 @@ a {
     justify-content: space-between;
 }
 .main {
-    background-image: url(img/main/bg.jpg);
+    background-image: url(../img/main/bg.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -292,59 +292,59 @@ a {
     background-size: cover;
 }
 .second__card__img--1 {
-    background-image: url(img/1/img.jpg);
+    background-image: url(../img/1/img.jpg);
 }
 .second__card__img--2 {
-    background-image: url(img/1/img1.jpg);
+    background-image: url(../img/1/img1.jpg);
 }
 .second__card__img--3 {
-    background-image: url(img/1/img2.jpg);
+    background-image: url(../img/1/img2.jpg);
 }
 .second__card__img--4 {
-    background-image: url(img/1/img3.jpg);
+    background-image: url(../img/1/img3.jpg);
 }
 .second__card__img--5 {
-    background-image: url(img/1/img4.jpg);
+    background-image: url(../img/1/img4.jpg);
 }
 .second__card__img--6 {
-    background-image: url(img/1/img5.jpg);
+    background-image: url(../img/1/img5.jpg);
     background-position-y: calc(50% + 5px);
 }
 .second__card__img--7 {
-    background-image: url(img/3/img.jpg);
+    background-image: url(../img/3/img.jpg);
 }
 .second__card__img--8 {
-    background-image: url(img/3/img1.jpg);
+    background-image: url(../img/3/img1.jpg);
 }
 .second__card__img--9 {
-    background-image: url(img/3/img2.jpg);
+    background-image: url(../img/3/img2.jpg);
 }
 .second__card__img--11 {
-    background-image: url(img/4/img.png);
+    background-image: url(../img/4/img.png);
 }
 .second__card__img--12 {
-    background-image: url(img/4/img1.jpg);
+    background-image: url(../img/4/img1.jpg);
 }
 .second__card__img--13 {
-    background-image: url(img/4/img2.jpg);
+    background-image: url(../img/4/img2.jpg);
 }
 .second__card__img--14 {
-    background-image: url(img/4/img3.jpg);
+    background-image: url(../img/4/img3.jpg);
 }
 .second__card__img--15 {
-    background-image: url(img/4/img4.jpg);
+    background-image: url(../img/4/img4.jpg);
 }
 .second__card__img--16 {
-    background-image: url(img/4/img5.jpg);
+    background-image: url(../img/4/img5.jpg);
 }
 .second__card__img--17 {
-    background-image: url(img/4/img6.jpg);
+    background-image: url(../img/4/img6.jpg);
 }
 .second__card__img--18 {
-    background-image: url(img/6/img.jpg);
+    background-image: url(../img/6/img.jpg);
 }
 .second__card__img--19 {
-    background-image: url(img/6/img1.jpg);
+    background-image: url(../img/6/img1.jpg);
 }
 .second__checkbox {
     display: none;
@@ -650,7 +650,7 @@ a {
         max-width: 485px;
     }
     .main {
-        background-image: url(img/main/bg1.png);
+        background-image: url(../img/main/bg1.png);
         background-size: auto;
         background-position-x: 100%;
         background-color: #F0F0F0;
